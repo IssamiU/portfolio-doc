@@ -260,6 +260,24 @@ Sou comunicativo, disciplinado e adaptável, com facilidade para trabalhar em eq
       <strong>Front-end:</strong> Colaboração com o desenvolvimento do calendário da empresa os respectivos modals. 
     </li>
   </ul>
+	<h3>Desafios/O que eu mudaria</h3>
+<ul>
+  <li>
+    <strong>Falta de comunicação clara e profissional:</strong>
+    <p>A comunicação do grupo era pouco clara mesmo com papéis definidos, faltando firmeza para lidar com erros, principalmente quando envolviam questões pessoais, gerando conflitos e atrasos.</p>
+  </li>
+  <li>
+    <strong>Reatividade insuficiente diante de problemas:</strong>
+    <p>A equipe demorava a identificar e resolver os problemas, prejudicando a entrega do projeto dentro do prazo e com qualidade desejada.</p>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <strong>Soluções:</strong>
+    <p>Adotar uma postura mais firme e profissional, cobrando responsabilidades com feedbacks diretos e focados em soluções, evitando flexibilizar diante de questões pessoais. Também é importante agir com mais prontidão para resolver problemas, mantendo disciplina e foco nas metas do projeto.</p>
+  </li>
+</ul>
   <h3>
 		Tecnologias utilizadas
 	</h3>
